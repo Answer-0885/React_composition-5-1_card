@@ -1,0 +1,6 @@
+body{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  background-color: #88b8ee;
+}
