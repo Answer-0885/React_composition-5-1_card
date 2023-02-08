@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_composition-5-1_card/static/css/main.4c7a9182.css",
+    "main.js": "/React_composition-5-1_card/static/js/main.0d535e71.js",
+    "index.html": "/React_composition-5-1_card/index.html",
+    "main.4c7a9182.css.map": "/React_composition-5-1_card/static/css/main.4c7a9182.css.map",
+    "main.0d535e71.js.map": "/React_composition-5-1_card/static/js/main.0d535e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c7a9182.css",
+    "static/js/main.0d535e71.js"
+  ]
+}
